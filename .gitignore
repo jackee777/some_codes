@@ -1,5 +1,4 @@
-*.ipynb_checkpoint
-*/*.ipynb_checkpoint
-*/*/*.ipynb_checkpoint
-/crawling/geo
+*.ipynb_checkpoints
+*/*.ipynb_checkpoints
+*/*/*.ipynb_checkpoints
 /crawling/images
