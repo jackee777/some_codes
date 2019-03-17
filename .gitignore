@@ -2,3 +2,7 @@
 */*.ipynb_checkpoints
 */*/*.ipynb_checkpoints
 /crawling/images
+SimLex-999*
+atcoder*
+others*
+statistics/nltk_test*
