@@ -1,3 +1,5 @@
+for json, this converts dict into obj in python
+
 # dict2obj
 it corresponds to the list
 In this program, obj.a is not function but dict.
